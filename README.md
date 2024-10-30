@@ -118,4 +118,4 @@ python interpolate_demo2.py --model TAE_MVFI_m --load_from checkpoints/TAE_MVFI_
 
 * VFIT: Video Frame Interpolation Transformer, CVPR 2022 [Code](https://github.com/zhshi0816/Video-Frame-Interpolation-Transformer)
 * VFIformer: Video Frame Interpolation with Transformer, CVPR 2022 [Code](https://github.com/dvlab-research/VFIformer)
-* EDSC: Multiple Video Frame Interpolation via Enhanced Deformable Separable Convolution, PAMI 2021 [Code](https://github.com/Xianhang/EDSC-pytorch)
+* EDSC: Multiple Video Frame Interpolation via Enhanced Deformable Separable Convolution, TPAMI 2021 [Code](https://github.com/Xianhang/EDSC-pytorch)
