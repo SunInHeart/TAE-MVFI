@@ -2,6 +2,13 @@
 <project version="4">
   <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
+      <paths name="683-m12">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
       <paths name="user3@10.120.23.149:22 password">
         <serverdata>
           <mappings>
@@ -10,6 +17,13 @@
         </serverdata>
       </paths>
       <paths name="北京A-682">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="北京A-692">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

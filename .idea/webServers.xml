@@ -9,6 +9,20 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="0ec19860-36eb-4478-bf87-0773ba03a705" name="683-m12">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-42.seetacloud.com" port="12029" sshConfigId="82ff530f-d8ec-4d85-afcf-1b37a97705f6" sshConfig="root@region-42.seetacloud.com:12029 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c62bebeb-ed6d-4129-b7c0-34c6e807601a" name="北京A-692">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="region-42.seetacloud.com" port="34213" sshConfigId="664208c3-e770-4e5f-868f-5679bc35479d" sshConfig="root@region-42.seetacloud.com:34213 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
